@@ -2,4 +2,6 @@
   "version": "1.0",
   "servidorgs": "gspainel.fun",
   "update": "https://files.hostpi.fun/fsdown/5003"
+  "pacote": "com.gs.player",
+  "appname": "GS Player"
 }
